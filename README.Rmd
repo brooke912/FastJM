@@ -1,3 +1,12 @@
+****Brooke G***
+
+# FastJM + Static Analysis Hook
+- Added Git pre-commit hook to run cppcheck for automatic static security analysis.
+- Helps maintain code quality and detect C/C++ vulnerabilities early.
+
+
+
+
 ---
 output: github_document
 ---
